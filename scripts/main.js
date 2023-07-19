@@ -5,7 +5,8 @@ Vue.createApp({
 
         return {
 
-            messaggio: "Welcome to Vue.JS"
+            messaggio: "Welcome to Vue.JS",
+            immagine: "img/Vue.svg.png"
 
         }
 
